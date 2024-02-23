@@ -1,5 +1,7 @@
 # 🏄‍♂️ Marcos Junior
 
+**`Um apaixonado por dados e tecnologia.`**
+
 ## Sobre Mim
 🔍 Estou mergulhando no mundo dos bancos de dados, explorando sistemas como PostgreSQL, MySQL, Oracle e SQL Server enquanto continuo aprendendo e me aprimorando.\
 💡 Estou embarcando na jornada de aprendizado de Python, reconhecendo seu valor na automação de tarefas e no desenvolvimento de scripts para auxiliar na administração do banco de dados.\
