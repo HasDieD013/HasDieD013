@@ -19,7 +19,7 @@
 - **Linguagens de Programação**: Estou em processo de aprendizado de Python e entendo seu potencial para automação e desenvolvimento de scripts para tarefas relacionadas a bancos de dados.
 
 ## Estatísticas
-[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=HasDieD013&show_icons=true&theme=radical)](https://github.com/seu-usuario-github)
+[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=HasDieD013&show_icons=true&theme=radical)]
 
 
 
